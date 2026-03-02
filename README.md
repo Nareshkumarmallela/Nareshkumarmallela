@@ -14,6 +14,6 @@ Highly motivated and results-driven Data Analyst with a passion for transforming
 
 **Database Management:** Experienced in designing, managing, and querying databases to efficiently store and retrieve data.
 
-**Data Reporting and Presentation:** Highly adept at delivering compelling data narratives through interactive dashboards and concise reports using Power BI and tableau.
+**Data Reporting and Presentation:** Highly adept at delivering compelling data narratives through interactive dashboards and concise reports using Power BI and Tableau.
 
 A fast learner and dedicated professional, I am committed to contributing to data-driven decision-making and eager to apply my skills to tackle challenging real-world business problems.
