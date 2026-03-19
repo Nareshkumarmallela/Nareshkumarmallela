@@ -4,7 +4,7 @@ I'm a Data Analyst...
 
 # Hi, I'm Naresh! 👋
 
-Highly motivated and results-driven Data Analyst with a passion for transforming data into actionable insights. While transitioning into the professional data analytics field, I bring a robust foundation in technical skills honed through extensive personal projects and self-directed learning. These skills include:
+Data-driven Business Analytics graduate student with 1.5+ years of experience in data analysis, process automation, and reporting optimization. Skilled in Python, SQL, Power BI, R, and AWS, with hands-on experience building regression models, interactive dashboards, and relational databases. Proven ability to translate complex datasets into actionable business insights that improve efficiency, reduce manual effort, and support strategic decision-making. These skills include:
 
 **Data Visualization:** Expert in Power BI, capable of designing clear, impactful dashboards that drive decision-making.
 
