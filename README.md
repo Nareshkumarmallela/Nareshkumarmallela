@@ -4,7 +4,7 @@ I'm a Data Analyst...
 
 # Hi, I'm Naresh! 👋
 
-Data Analyst with 4+ years of experience across financial services, marketing, and real estate — building scalable data pipelines, predictive models, and executive dashboards that drive measurable business outcomes.
+Data Analyst with 3+ years of experience across financial services, marketing, and real estate — building scalable data pipelines, predictive models, and executive dashboards that drive measurable business outcomes.
  
 Experienced in designing end-to-end ETL pipelines using Databricks, AWS Glue, Lambda, and S3, with hands-on expertise in Python (PySpark, Pandas, scikit-learn), SQL, and cloud-native architectures. Proven ability to transform large-scale datasets into actionable insights — delivering $43K in avoided client penalties, 40% faster reporting turnaround, 35% improvement in customer retention, and 60% reduction in manual processing across enterprise clients including GM, ALDI, and 7-Eleven.
  
